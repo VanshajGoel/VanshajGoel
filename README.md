@@ -25,7 +25,7 @@
 
 ### Let's Connect!!
 
-<a href="www.linkedin.com/in/VanshajGoel">
+<a href="https://www.linkedin.com/in/vanshajgoel/">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/linkedin.png" />
 </a>
 <a href="https://www.facebook.com/vanshaj.goel.505/">
